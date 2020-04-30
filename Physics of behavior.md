@@ -33,8 +33,8 @@ I am following up with some subjective points/reflections triggered by the Physi
 
 
 ### Organizer
-* Gordon Berman
-* Greg Stephens
+* [Gordon Berman](http://www.biology.emory.edu/Berman/)
+* [Greg Stephens](https://groups.oist.jp/bptu/)
 
 ### Sam Reiter
 [lab](https://groups.oist.jp/cne/sam-reiter)
